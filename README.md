@@ -1,1 +1,1 @@
-# MotivationalApp
+# QoutesApp
